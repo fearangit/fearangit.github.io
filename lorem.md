@@ -25,6 +25,8 @@ An [explanation of Lorem.](https://en.wikipedia.org/wiki/Lorem_ipsum "Lorem")
 
 Read more [here](./index.html)
 
+![Dr Evil](./dr-evil.jpg)
+
 1. ce tristique fringilla blandit.
 2. uis vel enim sit amet risus
 3. dictum tincidunt. 
@@ -53,12 +55,12 @@ Next list:
 
 Some code:
 
-`consequat et, eleifend eu sapien.`
+    consequat et, eleifend eu sapien.
 
-`Pellentesque porttitor varius elit ut sodales.`
+    Pellentesque porttitor varius elit ut sodales.
 
-`Sed nec sem in lectus egestas fermentum sed id turpis.`
+    Sed nec sem in lectus egestas fermentum sed id turpis.
 
-`Lorem ipsum dolor sit amet, consectetur adipiscing elit.`
+Lorem ipsum dolor sit amet, `consectetur` adipiscing elit.
 
 
