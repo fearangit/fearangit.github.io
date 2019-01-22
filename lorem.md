@@ -25,6 +25,8 @@ An [explanation of Lorem.](https://en.wikipedia.org/wiki/Lorem_ipsum "Lorem")
 
 Read more [here](./index.html)
 
+Read more [here](index.html)
+
 ![Dr Evil](./dr-evil.jpg)
 
 1. ce tristique fringilla blandit.
