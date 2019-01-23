@@ -1,1 +1,1 @@
-## ownCloud Quickstart Section 1
+## Section 1 - System Requirements and Deployment Recommendations
