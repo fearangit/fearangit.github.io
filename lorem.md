@@ -21,7 +21,7 @@ nascetur ridiculus mus. Sed et nibh interdum, consequat dolor vel, dignissim sap
 nec tellus. Suspendisse mauris odio, bibendum sollicitudin est ut, finibus vestibulum augue. Donec quis mi at nisi laoreet tristique in
 sit amet diam. Interdum et malesuada fames ac ante ipsum primis in faucibus. 
 
-An [explanation of Lorem.](https://en.wikipedia.org/wiki/Lorem_ipsum "Lorem")
+An [ownCloud Server Administration Guide](https://doc.owncloud.org/server/administration_manual/index.html)
 
 Read more [here](./index.html)
 
@@ -71,7 +71,7 @@ ownCloud is the flexible open source file synchronization and sharing solution, 
 
 This Quickstart guide will help you install and configure an Owncloud 10.0.10 server and perform some common administrative tasks. We assume you are familiar with downloading, installing, and configuring Linux applications and the associated LAMP stack necessary to provide a web-based service.
 
-The guide is divided into a number of sections that will step you through a basic installation, suitable for workgroup or department. It also provides links to the ownCloud 10.0.10 Server Administration Manual, which provides comprehensive information for users who want to install, administer, and optimize their ownCloud servers. 
+The guide is divided into a number of sections that will step you through a basic installation, suitable for workgroup or department. It also provides links to the [ownCloud Server Administration Guide](https://doc.owncloud.org/server/administration_manual/index.html), which provides comprehensive information for users who want to install, administer, and optimize their ownCloud servers. 
 
 - Section 1 describes system requirements and deployment recommendations.
 - Section 2 explains a manual installation on a Linux system.
