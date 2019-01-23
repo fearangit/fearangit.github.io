@@ -67,7 +67,7 @@ Lorem ipsum dolor sit amet, `consectetur` adipiscing elit.
 
 ## Welcome to the ownCloud Quickstart Guide! 
 
-ownCloud is the flexible open source file synchronization and sharing solution, which runs on Linux and has client applications for Linux, Windows, and macOS, as well as mobile apps for Android and iOS. 
+**ownCloud** is the flexible open source file synchronization and sharing solution, which runs on Linux and has client applications for Linux, Windows, and macOS, as well as mobile apps for Android and iOS. 
 
 This Quickstart guide will help you install and configure an Owncloud 10.0.10 server and perform some common administrative tasks. We assume you are familiar with downloading, installing, and configuring Linux applications and the associated LAMP stack necessary to provide a web-based service.
 
