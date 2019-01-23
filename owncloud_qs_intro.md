@@ -10,4 +10,4 @@ The guide is divided into a number of sections that will step you through a basi
 - Section 2 explains a [manual installation on a Linux system](owncloud_qs_s2.html).
 - Section 3 covers [configuration of the installed system](owncloud_qs_s3.html).
 - Section 4 covers some [common administrative tasks](owncloud_qs_s4.html).
-- Section 5 describes how a user connects to the ownCloud server [using a desktop or mobile client[(owncloud_qs_s5.html). 
+- Section 5 describes how a user connects to the ownCloud server [using a desktop or mobile client](owncloud_qs_s5.html). 
