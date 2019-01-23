@@ -4,7 +4,7 @@ Before we start, let's make sure that your system is capable of running ownCloud
 
 
 ### OS
-- UUbuntu 16.04 and 18.04
+- Ubuntu 16.04 and 18.04
 - Debian 7 and 8
 - Red Hat Enterprise Linux 6 and 7
 - Centos Linux 6 and 7
