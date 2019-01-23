@@ -7,7 +7,7 @@ This Quickstart guide will help you install and configure an Owncloud 10.0.10 se
 The guide is divided into a number of sections that will step you through a basic installation, suitable for workgroup or department. It also provides links to the [ownCloud Server Administration Guide](https://doc.owncloud.org/server/administration_manual/index.html), which provides comprehensive information for users who want to install, administer, and optimize their ownCloud servers. 
 
 - Section 1 describes [system requirements and deployment recommendations](owncloud_qs_s1.html).
-- Section 2 explains a manual installation on a Linux system.
-- Section 3 covers configuration of the installed system.
-- Section 4 covers some common administrative tasks.
-- Section 5 describes how a user connects to the ownCloud server using a desktop or mobile client. 
+- Section 2 explains a [manual installation on a Linux system](owncloud_qs_s2.html).
+- Section 3 covers [configuration of the installed system](owncloud_qs_s3.html).
+- Section 4 covers some [common administrative tasks](owncloud_qs_s4.html).
+- Section 5 describes how a user connects to the ownCloud server [using a desktop or mobile client[(owncloud_qs_s5.html). 
