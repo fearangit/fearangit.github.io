@@ -19,9 +19,12 @@ The recommended package to use is `owncloud-files`, which only installs ownCloud
 When all ownCloud files are installed, the last step to completing the installation is running the Installation Wizard using the following steps:
 
 1. Point your web browser to http://localhost/owncloud
+
 2. Enter your desired administrator’s username and password.
+
 3. Click **Finish Setup**.
 
+You can now start using your new ownCloud server. However, you can do much more to set up the server for best performance and security. For important installation and post-installation steps, see the In-Depth Guide in the [Installation Wizard](https://doc.owncloud.org/server/10.0/admin_manual/installation/installation_wizard.html) section of the *Admin Guide*. 
 
 
 ## Manual Installation on Linux
