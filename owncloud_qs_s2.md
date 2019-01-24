@@ -24,7 +24,9 @@ When all ownCloud files are installed, the last step to completing the installat
 
 3. Click **Finish Setup**.
 
-You can now start using your new ownCloud server. However, you can do much more to set up the server for best performance and security. For important installation and post-installation steps, see the In-Depth Guide in the [Installation Wizard](https://doc.owncloud.org/server/10.0/admin_manual/installation/installation_wizard.html) section of the *Admin Guide*. 
+![Install Wizard](./install-wizard-a.png)
+
+You can now start using your new ownCloud server. However, you can do much more to set up the server for best performance and security. For important installation and post-installation steps, see the **In-Depth Guide** in the [Installation Wizard](https://doc.owncloud.org/server/10.0/admin_manual/installation/installation_wizard.html) section of the *Admin Guide*. 
 
 
 ## Manual Installation on Linux
