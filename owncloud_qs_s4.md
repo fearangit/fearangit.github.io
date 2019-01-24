@@ -1,6 +1,16 @@
 # 4 - Common Administrative Tasks
 You can do...
 
+## Setting Server IP Address and Port
+
+ownCloud uses the config/config.php file to control server operations. Most options are configurable on your Admin page, so it is usually not necessary to edit config/config.php.
+
+The default parameters are configured by the ownCloud installer, and are required for your ownCloud server to operate.
+
+The `'dbhost' => '',` parameter is one of these default parameters configured by the ownCloud installer. This parameter specifies your host server name, for example _localhost_, _hostname_, or the IP address. To specify that Port 8080 should be used, set it as follows:
+
+> 'dbhost' => 'hostname:8080'
+
 
 ## Creating a New User
 
