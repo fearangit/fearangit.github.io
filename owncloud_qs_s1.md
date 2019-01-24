@@ -48,4 +48,5 @@ Deployment considerations
 Single machine - scale up, or scale out with cluster
 
 
-Go back to [Intro](owncloud_qs_intro.html)
+----
+Go back to [Welcome](owncloud_qs_intro.html) or move on to [Installation](owncloud_qs_s2.html)
