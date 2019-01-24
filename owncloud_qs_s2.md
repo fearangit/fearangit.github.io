@@ -34,4 +34,5 @@ You can now start using your new ownCloud server. However, you can do much more 
 You can setup ownCloud from scratch using a classic LAMP stack. Go to the [Manual Installation on Linux](https://doc.owncloud.org/server/10.0/admin_manual/installation/source_installation.html) section in the Admin Guide. This walks you through installing ownCloud on Ubuntu 14.04 LTS Server with Apache and MariaDB, using the ownCloud .tar archive.
 
 ----
-Go back to [Welcome](owncloud_qs_intro.html) or move on to [Configuration](owncloud_qs_s3.html)
+[Welcome](owncloud_qs_intro.html) - [System Requirements](owncloud_qs_s1.html) - [Installation](owncloud_qs_s2.html) - [Configuration](owncloud_qs_s3.html) - [Common Tasks](owncloud_qs_s4.html) - [Connecting Clients](owncloud_qs_s5.html)
+
