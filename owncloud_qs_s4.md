@@ -24,3 +24,6 @@ To create a new user account:
 Login names may contain letters (a-z, A-Z), numbers (0-9), dashes, underscores, periods, and the 'at' sign (@). After creating the user, you may fill in their full name if it is different than the login name, or leave it for the user to complete.
 
 If you have checked **Send email to new user** in the control panel on the lower left sidebar, you may also enter the new user’s email address, and ownCloud will automatically send them a notification with their new login information. You may edit this email using the email template editor on your Admin page.
+
+----
+[Welcome](owncloud_qs_intro.html) - [System Requirements](owncloud_qs_s1.html) - [Installation](owncloud_qs_s2.html) - [Configuration](owncloud_qs_s3.html) - [Common Tasks](owncloud_qs_s4.html) - [Connecting Clients](owncloud_qs_s5.html)
