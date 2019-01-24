@@ -1,4 +1,4 @@
-## 2 - Installation with the Linux Package Manager
+# 2 - Installation with the Linux Package Manager
 
 The quickest and easiest way to install ownCloud on Linux is to use the Open Build Service packages (see Linux Package Manager Installation). These are maintained by ownCloud engineers, and you can use your package manager to keep your ownCloud server up-to-date.
 
