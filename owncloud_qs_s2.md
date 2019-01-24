@@ -12,6 +12,17 @@ The recommended package to use is `owncloud-files`, which only installs ownCloud
 
 4. Run the Installation Wizard to complete your installation.
 
+## The Installation Wizard
+
+**CAUTION** Before using the Installation Wizard, you should protect it with password authentication or access control. If left unprotected, a malicious actor could finish the installation and block you out.
+
+When all ownCloud files are installed, the last step to completing the installation is running the Installation Wizard using the following steps:
+
+1. Point your web browser to http://localhost/owncloud
+2. Enter your desired administrator’s username and password.
+3. Click **Finish Setup**.
+
+
 
 ## Manual Installation on Linux
 
