@@ -16,3 +16,6 @@ It's very easy to install and use the ownCloud iOS app.
 4. Enter your ownCloud server URL and login.
 
 When it connects, it opens to your Files page.
+
+----
+[Welcome](owncloud_qs_intro.html) - [System Requirements](owncloud_qs_s1.html) - [Installation](owncloud_qs_s2.html) - [Configuration](owncloud_qs_s3.html) - [Common Tasks](owncloud_qs_s4.html) - [Connecting Clients](owncloud_qs_s5.html)
