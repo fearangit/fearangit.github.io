@@ -6,7 +6,7 @@ The recommended package to use is `owncloud-files`, which only installs ownCloud
 
 1. Install your own LAMP stack, to create your own custom LAMP stack without dependency conflicts with the ownCloud package.
 
-2. Update package manager’s configuration. Configurations are available for the Linux distributions listed inSystem Requirements, apart from Fedora and openSUSE Tumbleweed.
+2. Update package manager’s configuration. Configurations are available for the Linux distributions listed in System Requirements, except for the Fedora and openSUSE Tumbleweed distributions.
 
 3. Follow the rest of the instructions on the download page to install ownCloud. 
 
@@ -34,5 +34,5 @@ You can now start using your new ownCloud server. However, you can do much more 
 You can setup ownCloud from scratch using a classic LAMP stack. Go to the [Manual Installation on Linux](https://doc.owncloud.org/server/10.0/admin_manual/installation/source_installation.html) section in the Admin Guide. This walks you through installing ownCloud on Ubuntu 14.04 LTS Server with Apache and MariaDB, using the ownCloud .tar archive.
 
 ----
-[Welcome](owncloud_qs_intro.html) - [System Requirements](owncloud_qs_s1.html) - [Installation](owncloud_qs_s2.html) - [Configuration](owncloud_qs_s3.html) - [Common Tasks](owncloud_qs_s4.html) - [Connecting Clients](owncloud_qs_s5.html)
+[Welcome](owncloud_qs_intro.html) | [System Requirements](owncloud_qs_s1.html) | Installation | [Configuration](owncloud_qs_s3.html) | [Common Tasks](owncloud_qs_s4.html) | [Connecting Clients](owncloud_qs_s5.html)
 
