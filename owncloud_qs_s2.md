@@ -14,7 +14,7 @@ The recommended package to use is `owncloud-files`, which only installs ownCloud
 
 ## The Installation Wizard
 
-**CAUTION** Before using the Installation Wizard, you should protect it with password authentication or access control. If left unprotected, a malicious actor could finish the installation and block you out.
+> **CAUTION** Before using the Installation Wizard, you should protect it with password authentication or access control. If left  unprotected, a malicious actor could finish the installation and block you out.
 
 When all ownCloud files are installed, the last step to completing the installation is running the Installation Wizard using the following steps:
 
