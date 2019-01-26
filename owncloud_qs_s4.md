@@ -26,4 +26,4 @@ Login names may contain letters (a-z, A-Z), numbers (0-9), dashes, underscores, 
 If you have checked **Send email to new user** in the control panel on the lower left sidebar, you may also enter the new user’s email address, and ownCloud will automatically send them a notification with their new login information. You may edit this email using the email template editor on your Admin page.
 
 ----
-[Welcome](owncloud_qs_intro.html) - [System Requirements](owncloud_qs_s1.html) - [Installation](owncloud_qs_s2.html) - [Configuration](owncloud_qs_s3.html) - [Common Tasks](owncloud_qs_s4.html) - [Connecting Clients](owncloud_qs_s5.html)
+[Welcome](index.html) - [System Requirements](owncloud_qs_s1.html) - [Installation](owncloud_qs_s2.html) - [Configuration](owncloud_qs_s3.html) - [Common Tasks](owncloud_qs_s4.html) - [Connecting Clients](owncloud_qs_s5.html)
