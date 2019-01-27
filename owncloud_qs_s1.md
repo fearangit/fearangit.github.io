@@ -60,7 +60,7 @@ For details of implementing larger ownCloud deployments, go to the [Deployment R
 
 
 
-
+#### Next, let's look at [Installation](owncloud_qs_s2.html)
 
 
 ----
