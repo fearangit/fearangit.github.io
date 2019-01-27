@@ -26,7 +26,7 @@ For information on the Desktop Client, go to the [ownCloud Desktop Client Manual
 For information on the Android app, go to [Using the ownCloud Android App](https://doc.owncloud.org/android/). This describes how to install and upgrade the app, connect to the ownCloud server, manage user accounts, and many other topics.
 
 ## That's it... for now
-We hope that you've enjoyed using this Quickstart guide and that you have successfully deployed an ownCloud server to be used by your colleagues or friends. You have most likely also used the **ownCloud Server Administration Guide** and the **User Manual**. You would have downloaded the software from [owncloud.org](https://owncloud.org), but to find out how ownCloud is used from an enterprise perspective, go to [owncloud.com](https://owncloud.com).
+We hope that you've enjoyed using this Quickstart guide and that you have successfully deployed an ownCloud server to be used by your colleagues or friends. You have most likely also used the **ownCloud Server Administration Guide** and the **User Manual**. You would have downloaded the software from [owncloud.org](https://owncloud.org), but to find out how ownCloud is used from an enterprise perspective, there's a lot of really interesting information on [owncloud.com](https://owncloud.com).
 
 If you want to take a break from reading the manuals, head over to the [ownClouders video channel](https://www.youtube.com/user/ownClouders/videos) on **YouTube**. It's got hundreds(!) of informative and entertaining videos - demos, tutorials, and much more.
 
