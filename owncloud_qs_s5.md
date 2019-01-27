@@ -1,6 +1,6 @@
 # 5 - Connecting with a Desktop or Mobile Client
 
-You can share files and folders on your computer, and synchronize them with your ownCloud server. When you place files in your local shared directories, those files are immediately synchronized to the server and to other devices using the ownCloud Desktop Sync Client, Android app, or iOS app. This means you can always access those files when travelling with your laptop, or with your mobile phone.
+You can share files and folders on your computer, and synchronize them with your ownCloud server. When you place files in your local shared directories, those files are immediately synchronized to the server and to other devices using the ownCloud Desktop Sync Client, Android app, or iOS app. This means you can always access those files when travelling with your laptop or mobile phone.
 
 ownCloud provides a desktop client for Windows, Macs, and Linux computers, and mobile apps for Android and iOS.
 
@@ -18,6 +18,12 @@ It's very easy to install and use the ownCloud iOS app.
 When it connects, it opens to your Files page.
 
 ![iOS Files List](./ios-files-list.png)
+
+### Desktop Client
+For information on the Desktop Client, go to the [ownCloud Desktop Client Manual](https://doc.owncloud.org/desktop/2.5/). This has details on new features, how to install and use the client, and advanced features. It even describes how to build the client from its source code.
+
+### Android App
+For information on the Android app, go to [Using the ownCloud Android App](https://doc.owncloud.org/android/). This describes how to install and upgrade the app, connect to the ownCloud server, manage user accounts, and many other topics.
 
 ----
 [Welcome](index.html) - [System Requirements](owncloud_qs_s1.html) - [Installation](owncloud_qs_s2.html) - [Configuration](owncloud_qs_s3.html) - [Common Tasks](owncloud_qs_s4.html) - Connecting Clients
