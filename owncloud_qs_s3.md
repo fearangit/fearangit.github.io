@@ -44,8 +44,8 @@ To start the MySQL command line mode use:
 
 A **mysql>** or **MariaDB [root]>** prompt will appear. Enter the following lines and confirm them with the Enter key:
 
-`CREATE DATABASE IF NOT EXISTS owncloud;
-GRANT ALL PRIVILEGES ON owncloud.* TO 'username'@'localhost' IDENTIFIED BY 'password';`
+    CREATE DATABASE IF NOT EXISTS owncloud;
+    GRANT ALL PRIVILEGES ON owncloud.* TO 'username'@'localhost' IDENTIFIED BY 'password';
 
 You can quit the prompt by entering:
 
@@ -53,12 +53,12 @@ You can quit the prompt by entering:
 
 An ownCloud instance configured with MySQL would contain the hostname on which the database is running, a valid username and password to access it, and the name of the database. The config/config.php as created by the installation wizard would therefore contain entries like this:
 
-`"dbtype"        => "mysql",  
-  "dbname"        => "owncloud",  
-  "dbuser"        => "username",  
-  "dbpassword"    => "password",  
-  "dbhost"        => "localhost",  
-  "dbtableprefix" => "oc_",  `
+      "dbtype"        => "mysql",  
+      "dbname"        => "owncloud",  
+      "dbuser"        => "username",  
+      "dbpassword"    => "password",  
+      "dbhost"        => "localhost",  
+      "dbtableprefix" => "oc_",  
 
 
 ## External Storage Configuration
