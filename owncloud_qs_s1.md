@@ -15,8 +15,8 @@ You can run ownCloud on any of the following Linux systems. The enterprise versi
 
 
 ### DB
-MySQL or MariaDB are ideal for this Quickstart.
-- MySQL or MariaDB 5.5+
+Any of the listed databases can be used, but MySQL or MariaDB are recommended for this Quickstartinstallation.
+- MySQL or MariaDB 5.5+ (with InnoDB storage engine)
 - Oracle 11g
 - PostgreSQL
 - SQLite
@@ -30,22 +30,25 @@ Apache 2.4 with prefork Multi-Processing Module (MPM) and mod_php
 ### Memory Requirements
 Memory requirements vary greatly, depending on the numbers of users and files, and the volume of server activity. The official minimum recommandation is 128MB RAM. However, we strongly recommend a minimum of 512MB to ensure reasonable performance.
 
-
-
-## Deployment recommendations
-General
-Scale out , cloud sharing, amount of data will grow, so plan ahead
-
-## Command line access
+### Command line access
 ownCloud administrators should use hosts that provide command-line and Cron access.
 - OCC commands, required for administrative tasks such as repairs and upgrades, are only available using the command line.
 - You need crontab access to run background jobs reliably. 
 
+## Deployment recommendations
+Both ownCloud and the LAMP stack are highly configurable. An ownCloud installation can range from a single machine hosting the application, assocated LAMP stack and local storage, up to enterprise-level systems with multiple applications, databases and web servers providing file sharing to tens of thousands of users. This Quickstart describes the simplest type of installation, which will enable you to get started and learn the basics of ownCloud.
 
-Small Workgroup/dept
+Once you are up and running, you will see that the server load is dependent on the number of clients, files, and patterns of user activity. Once you are confident that your ownCloud installation is running smoothly, the next step then is to scale up the system to provide the service to a small workgroup or department.
 
-Deployment considerations
-Single machine - scale up, or scale out with cluster
+## Workgroup scenario
+This scenario applies where you have up to 150 users, 100GB to 10TB of storage, and you make provision for High Availability.
+The recommended system is to have a single physical server running the application, web, and database server, as well as local storage. You can provide authentication through an existing LDAP or Active Directory server. The physical server should have at least two CPU cores, 16GB of RAM, and sufficient local storage. local storage as needed. Remember that the amount of data stored in ownCloud will only grow, so ensure that you can easily increase the storage capacity when required.
+
+
+
+
+
+
 
 
 ----
