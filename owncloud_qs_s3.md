@@ -63,7 +63,7 @@ An ownCloud instance configured with MySQL would contain the hostname on which t
 
 ## External Storage Configuration
 
-### Next, let's look at [Common Tasks](owncloud_qs_s3.html)
+### Next, let's look at [Common Tasks](owncloud_qs_s4.html)
 
 ----
 [Welcome](index.html) - [System Requirements](owncloud_qs_s1.html) - [Installation](owncloud_qs_s2.html) - [Configuration](owncloud_qs_s3.html) - [Common Tasks](owncloud_qs_s4.html) - [Connecting Clients](owncloud_qs_s5.html)
