@@ -51,7 +51,7 @@ You can quit the prompt by entering:
 
 `quit`
 
-An ownCloud instance configured with MySQL would contain the hostname on which the database is running, a valid username and password to access it, and the name of the database. The config/config.php as created by the installation wizard would therefore contain entries like this:
+An ownCloud instance configured with MySQL would contain the hostname on which the database is running, a valid username and password to access it, and the name of the database. The config/config.php as created by the Installation Wizard would therefore contain entries like this:
 
       "dbtype"        => "mysql",  
       "dbname"        => "owncloud",  
@@ -62,6 +62,29 @@ An ownCloud instance configured with MySQL would contain the hostname on which t
 
 
 ## External Storage Configuration
+
+There are many other aspects to configuring ownCloud, and it's not possible to detail them all in this Quickstart. The Server Administration Guide has a Configuration section that provides all necessary details.  
+
+* External storage
+  * authentication mechanisms
+  * FTP
+  * Dropbox
+  * OpenStack
+  * Amazon S3
+  * SMB
+  * WebDAV
+* File configuration
+  * Big files
+  * Default files
+  * Encryption
+  * Versioning
+  * Transactional file locking
+* LDAP (Lightweight Directory Access Protocol)
+* Mimetypes
+* Server configuration
+* User configuration
+
+
 
 #### Next, let's look at [Common Tasks](owncloud_qs_s4.html)
 
