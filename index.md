@@ -15,3 +15,5 @@ The guide is divided into a number of sections that will step you through a basi
 To learn more about ownCloud, go to the [ownCloud Server Administration Guide](https://doc.owncloud.org/server/administration_manual/index.html), which provides comprehensive information for users who want to install, administer, and optimize their ownCloud servers.
 
 To learn more about ownCloud as an end user, go to the [ownCloud User Manual](https://doc.owncloud.org/server/10.0/user_manual/). This provides details of the ownCloud Desktop Client, and the Android and iOS mobile apps.
+
+### Let's get started by checking [System Requirements](owncloud_qs_s1.html)
