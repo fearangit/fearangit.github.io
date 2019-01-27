@@ -3,7 +3,7 @@
 Before we start, let's make sure that your system is capable of running ownCloud.
 
 
-### OS
+### Operating System
 You can run ownCloud on any of the following Linux systems. The enterprise versions are ideal for large scale deployments, but for the purposes of this Quickstart, we recommend Ubuntu, as it comes with the full set of required packages out of the box.
 - Ubuntu 16.04 and 18.04
 - Debian 7 and 8
@@ -14,8 +14,8 @@ You can run ownCloud on any of the following Linux systems. The enterprise versi
 - openSUSE Tumbleweed and Leap 15.0, 42.3
 
 
-### DB
-Any of the listed databases can be used, but MySQL or MariaDB are recommended for this Quickstartinstallation.
+### Database
+Any of the listed databases can be used, but MySQL or MariaDB are recommended for this Quickstart installation.
 - MySQL or MariaDB 5.5+ (with InnoDB storage engine)
 - Oracle 11g
 - PostgreSQL
@@ -52,6 +52,8 @@ For the database, MySQL or MariaDB are both suitable, just make sure they are us
 
 For backup, install ownCloud, the ownCloud data directory, and database on a [Btrfs](https://en.wikipedia.org/wiki/Btrfs) filesystem. Make regular snapshots at desired intervals for zero downtime backups. Mount DB partitions with the `nodatacow` option to prevent fragmentation.
 
+### Larger scenarios
+For details of implementing larger ownCloud deplyments, go to the [Deployment Recommendations](https://doc.owncloud.org/server/10.0/admin_manual/installation/deployment_recommendations.html) section of the Admin Guide. This describes two further scenarios, **mid-sized enterprises** (from 150 to 1,000 users) and **large enterprises and service providers** (5,000 to 100,000 users).
 
 
 
