@@ -53,12 +53,12 @@ You can quit the prompt by entering:
 
 An ownCloud instance configured with MySQL would contain the hostname on which the database is running, a valid username and password to access it, and the name of the database. The config/config.php as created by the installation wizard would therefore contain entries like this:
 
-"dbtype"        => "mysql",  
+`"dbtype"        => "mysql",  
   "dbname"        => "owncloud",  
   "dbuser"        => "username",  
   "dbpassword"    => "password",  
   "dbhost"        => "localhost",  
-  "dbtableprefix" => "oc_",  
+  "dbtableprefix" => "oc_",  `
 
 
 ## External Storage Configuration
