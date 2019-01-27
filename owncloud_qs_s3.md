@@ -2,7 +2,7 @@
 
 ## Database configuration
 
-ownCloud requires a database to store administrative data. For this Quickstart, we recommend using MySQL or MariaDB. You should install the ownCloud server software before installing the database. Refer to the database documentation for instructions on how to configure it.
+ownCloud requires a database to store administrative data. For this Quickstart installation, we recommend using MySQL or MariaDB. You should install the ownCloud server software before installing the database. Refer to the database documentation for instructions on how to configure it.
 
 ### MySQL/MariaDB with Binary Logging Enabled
 
@@ -12,7 +12,7 @@ ownCloud is currently using a TRANSACTION_READ_COMMITTED transaction isolation t
 
 * To configure correctly, change the BINLOG_FORMAT = STATEMENT in the database configuration file (or the database startup script) to BINLOG_FORMAT = MIXED or BINLOG_FORMAT = ROW.
 
-Some database configurations enforce other transaction isolation levels. To avoid data loss under high load scenarios, you need to configure the transaction isolation level accordingly. Please refer to the MySQL manual for detailed information.
+Some database configurations enforce other transaction isolation levels. To avoid data loss under high load scenarios, you need to configure the transaction isolation level accordingly. Please refer to the [MySQL Reference Manual](https://dev.mysql.com/doc/refman/8.0/en/) for detailed information.
 
 ### Parameters
 
