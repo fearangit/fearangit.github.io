@@ -1,4 +1,4 @@
-## 1 - System Requirements and Deployment Recommendations
+# 1 - System Requirements and Deployment Recommendations
 
 Before we start, let's make sure that your system is capable of running ownCloud.
 
@@ -40,9 +40,18 @@ Both ownCloud and the LAMP stack are highly configurable. An ownCloud installati
 
 Once you are up and running, you will see that the server load is dependent on the number of clients, files, and patterns of user activity. Once you are confident that your ownCloud installation is running smoothly, the next step then is to scale up the system to provide the service to a small workgroup or department.
 
-## Workgroup scenario
+### Workgroup scenario
 This scenario applies where you have up to 150 users, 100GB to 10TB of storage, and you make provision for High Availability.
-The recommended system is to have a single physical server running the application, web, and database server, as well as local storage. You can provide authentication through an existing LDAP or Active Directory server. The physical server should have at least two CPU cores, 16GB of RAM, and sufficient local storage. local storage as needed. Remember that the amount of data stored in ownCloud will only grow, so ensure that you can easily increase the storage capacity when required.
+The recommended system is to have a single physical server running the application, web, and database server, as well as local storage. You can provide authentication through an existing LDAP or Active Directory server.
+
+The physical server should have at least two CPU cores, 16GB of RAM, and sufficient local storage. local storage as needed. Remember that the amount of data stored in ownCloud will only grow, so ensure that you can easily increase the storage capacity when required.
+
+For the operating system, we recommend an enterprise-grade Linux distribution with full support from the vendor. Red Hat Enterprise Linux is an excellent choice for OS in this scenario.
+
+For the database, MySQL or MariaDB are both suitable, just make sure they are using the InnoDB storage engine.
+
+For backup, install ownCloud, the ownCloud data directory, and database on a [Btrfs](https://en.wikipedia.org/wiki/Btrfs) filesystem. Make regular snapshots at desired intervals for zero downtime backups. Mount DB partitions with the `nodatacow` option to prevent fragmentation.
+
 
 
 
