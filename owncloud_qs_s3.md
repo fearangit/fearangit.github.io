@@ -61,7 +61,7 @@ An ownCloud instance configured with MySQL would contain the hostname on which t
       "dbtableprefix" => "oc_",  
 
 
-## Other Configuration Dtails
+## Other Configuration Details
 
 There are many other aspects to configuring ownCloud, and it's not possible to detail them all in this Quickstart. The [Server Administration Guide](https://doc.owncloud.org/server/administration_manual/index.html) has a **Configuration** section that provides all necessary details; the following list is just a sample of the configuration options available.  
 
