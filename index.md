@@ -7,7 +7,7 @@ This Quickstart guide will help you install and configure an Owncloud 10.0.10 se
 The guide is divided into a number of sections that will step you through a basic installation, suitable for learning how to use ownCloud, or setting it up for a small workgroup.  
 
 - Section 1 describes [system requirements and deployment recommendations](owncloud_qs_s1.html).
-- Section 2 explains [nstallation with the Linux Package Manager](owncloud_qs_s2.html).
+- Section 2 explains [installation with the Linux Package Manager](owncloud_qs_s2.html).
 - Section 3 covers [configuration of the installed system](owncloud_qs_s3.html).
 - Section 4 covers some [common administrative tasks](owncloud_qs_s4.html).
 - Section 5 describes how a user connects to the ownCloud server [using a desktop or mobile client](owncloud_qs_s5.html). 
