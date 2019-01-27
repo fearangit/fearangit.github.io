@@ -1,5 +1,5 @@
 # 4 - Common Administrative Tasks
-You can do...
+When setting up ownCloud, you may need to specify the IP address and port through which users connect to the server. Then, when managing ownCloud once it's up and running, a common task is to create a new user.
 
 ## Setting Server IP Address and Port
 
