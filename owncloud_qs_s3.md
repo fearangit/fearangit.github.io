@@ -82,6 +82,8 @@ There are many other aspects to configuring ownCloud, and it's not possible to d
 * LDAP (Lightweight Directory Access Protocol)
 * Mimetypes
 * Server configuration
+  * Security
+  * Background jobs
 * User configuration
 
 
