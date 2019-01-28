@@ -2,6 +2,8 @@
 
 The quickest and easiest way to install ownCloud on Linux is to use the Open Build Service packages. These are maintained by ownCloud engineers, and you can use your package manager to keep your ownCloud server up-to-date.
 
+> Go to the [ownCloud Download](https://owncloud.org/download/) page.
+
 The recommended package to use is `owncloud-files`, which only installs ownCloud; it does not install any LAMP (Linux, Apache, MySQL/MariaDB, PHP) stack components.
 
 1. Install your own LAMP stack, to create a custom stack without dependency conflicts with the ownCloud package.
