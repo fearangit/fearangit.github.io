@@ -28,7 +28,7 @@ Apache 2.4 with prefork Multi-Processing Module (MPM) and mod_php
 5.6, 7.0, 7.1 or 7.2
 
 ### Memory Requirements
-Memory requirements vary greatly, depending on the numbers of users and files, and the volume of server activity. The official minimum recommandation is 128 MB RAM. However, we strongly recommend a minimum of 512 MB to ensure reasonable performance.
+Memory requirements vary greatly, depending on the numbers of users and files, and the volume of server activity. The official minimum recommendation is 128 MB RAM. However, we strongly recommend a minimum of 512 MB to ensure reasonable performance.
 
 ### Command line access
 ownCloud administrators should use hosts that provide command-line and Cron access.
